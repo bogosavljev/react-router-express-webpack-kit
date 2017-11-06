@@ -49,7 +49,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            title: 'React Driving App',
+            title: 'React with React Router 4, Express and Webpack 3 boilerplate kit',
             minify: {
                 collapseWhitespace: true
             },
